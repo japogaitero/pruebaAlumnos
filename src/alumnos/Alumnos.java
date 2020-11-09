@@ -66,10 +66,11 @@ public class Alumnos {
         }    
     }
     media=media/num_alumnos;
-     System.out.println(" El número de alumnos en el curso es "+ num_alumnos+". La nota media del curso es "+media+".\n "
+    System.out.println(" El número de alumnos en el curso es "+ num_alumnos+". La nota media del curso es "+media+".\n "
              + "La nota más alta es la de "+alumno_alta+" con un "+alta+". La nota más baja es la de "+alumno_baja+" con un "+baja+".\n"
              +"Hay "+aprobados+" aprobados y " +suspensos+" suspensos.");
-        
+    //este es una actualización del c´digo para probar
+    System.out.println ("hemos cambiado algo") ;
     }
     }
     
